@@ -1,0 +1,2 @@
+# rubyproj
+familiarizing with git
